@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://namanbothara4-boop.github.io/DestinyMatch-AI/sitemap.xml
+Sitemap: https://kingbothara4-tech.github.io/sitemap.xml
